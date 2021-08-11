@@ -1,4 +1,4 @@
-# Horiseon-remodel
+# Horiseon Remodeled
 
 * Improved semantic elements and classes
 * Followed logical structure
